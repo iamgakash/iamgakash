@@ -1,8 +1,8 @@
-[![MasterHead](https://www.canva.com/design/DAF8sBdQ8gw/5DTvLHE7URpvkudbHjYPIQ/edit?utm_content=DAF8sBdQ8gw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.linkedin.com/in/akash-gj/)
+[![MasterHead](https://www.canva.com/design/DAF8sBdQ8gw/zzmDjRjZZiViT8dBF0sf3g/watch?utm_content=DAF8sBdQ8gw&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://www.linkedin.com/in/akash-gj/)
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">I am a Data Analyst, Unveiling Patterns and Discovering Insights</h3>
 
-img align="right" alt="Coding" width="400" src="https://i.gifer.com/75ez.gif"
+(img align="right" alt="Coding" width="400" src="https://i.gifer.com/75ez.gif")
 
 - 🌱 I’m currently learning **new data analysis techniques to enhance my skills in the field.**
 
