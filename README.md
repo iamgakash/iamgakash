@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">I am a Data Analyst, Unveiling Patterns and Discovering Insights</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.gifer.com/75ez.gif")
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/75ez.gif">
 
 - 🌱 I’m currently learning **new data analysis techniques to enhance my skills in the field.**
 
