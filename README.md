@@ -1,14 +1,16 @@
-[![Blue-and-White-Architect-Linked-In-Banner.jpg](https://i.postimg.cc/q7jvC6pS/Blue-and-White-Architect-Linked-In-Banner.jpg)](https://www.linkedin.com/in/akash-gj/)
+[![Blue-and-White-Architect-Linked-In-Banner-1.jpg](https://i.postimg.cc/RVWccw6K/Blue-and-White-Architect-Linked-In-Banner-1.jpg)](https://www.linkedin.com/in/akash-gj/)
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">I am a Data Analyst, Unveiling Patterns and Discovering Insights</h3>
 
 
-<img align="right" alt="Coding" width="400" height = "300" src="https://media2.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=ecf05e47ze3pd3baj4fd9h1qh3v2yelgnu0d4tf21k4he5qp&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="padding: 10px; border-radius: 20px;">
+<img align="right" alt="Coding" width="400" height = "600" src="https://i.giphy.com/HUplkVCPY7jTW.webp">
 
+
+- 🤵‍♂️ I am an analytically minded professional with a strong passion for transforming raw data into actionable insights. I am actively enhancing my skills in **Excel, SQL, Python, and data visualization tools like Power BI, Tableau and Google Looker Studio**. I possess a keen interest in data analytics and am eager to apply my problem-solving abilities, attention to detail, and commitment to data integrity in a data analyst role. I am excited about contributing to data-driven projects, collaborating with cross-functional teams, and expanding my expertise in statistical analysis, data visualization, and machine learning. Let's connect and explore opportunities to make a significant impact in the data analytics industry.
 
 - 🌱 I’m currently learning **new data analysis techniques to enhance my skills in the field.**
 
-- 💬 Ask me about **Power BI, Excel, MySQL, Python, Tableau and Google Looker Studio               **
+- 💬 Ask me about **Power BI, Excel, MySQL, Python, Tableau and Google Looker Studio**
 
 - 📫 How to reach me **iamgakash@gmail.com**
 
