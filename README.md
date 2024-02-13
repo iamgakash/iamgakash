@@ -2,12 +2,13 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">I am a Data Analyst, Unveiling Patterns and Discovering Insights</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=ecf05e47ze3pd3baj4fd9h1qh3v2yelgnu0d4tf21k4he5qp&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="padding: 10px;" >
+
+<img align="right" alt="Coding" width="400" height = "300" src="https://media2.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=ecf05e47ze3pd3baj4fd9h1qh3v2yelgnu0d4tf21k4he5qp&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="padding: 10px; border-radius: 20px;">
 
 
 - 🌱 I’m currently learning **new data analysis techniques to enhance my skills in the field.**
 
-- 💬 Ask me about **Power BI, Excel, MySQL, Python, Tableau and Google Looker Studio**
+- 💬 Ask me about **Power BI, Excel, MySQL, Python, Tableau and Google Looker Studio               **
 
 - 📫 How to reach me **iamgakash@gmail.com**
 
